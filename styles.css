@@ -1,0 +1,42 @@
+body{
+    background-color:#DEFFCE;
+    text-align:center;
+    color:#333;
+
+    /*Lexi Turner*/
+    position: absolute;
+    font-family: 'Zen Antique', serif;
+    font-style: normal;
+    font-weight: normal;
+
+
+
+}
+h1{
+    font-size: 70px;
+}
+
+
+img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+ul {
+list-style: inside;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 550px;
+}
+
+blockquote{
+    font-style: italic;
+    text-align: left;
+}
+
+a {
+    font-weight:bold;
+    line-height: 2;
+}
